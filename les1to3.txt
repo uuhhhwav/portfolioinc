@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>1-3</title>
+<link rel="icon" href="q2portfolioinclogo.PNG">
+<link rel="stylesheet" href="navbar.css" type="text/css">
+<style type="text/css">
+.paragraph1{
+font-size: 30px;
+color: skyblue;
+}
+.paragraph2{
+font-size: 30px;
+color: white;
+}
+#paragraph3{
+background-color:#023020;
+color: white;
+font-family: Arial;
+font-size: 20px;
+}
+</style>
+</head>
+<body bgcolor="#228B22">
+
+<div class="topnav">
+    <span id="title" href="#">Port Folio Inc. Second Edition</span>
+    <a class="link" href="q2reflection.html" target="_blank">Reflection</a>
+    <a class="link" href="#" target="_self" style="background-color:#04AA6D;">Outputs</a>
+    <a class="link" href="q2activities.html" target="_blank">Activities</a>
+    <a class="link" href="q2mainpage.html" target="_blank">Home</a>
+</div>
+<br><br><br>
+<h1 style="text-align:center; font-family:Comic Sans MS;">
+this useful little navbar above me is made via external CSS!
+</h1>
+
+<div class="paragraph1">
+From Warner Bros. Pictures and Legendary Pictures and starring Jason Momoa and Jack Black, "A Minecraft Movie," directed by Jared Hess, is the first-ever big screen, live-action adaptation of Minecraft, the best-selling video game of all time.
+</div>
+<br>
+<div class="paragraph2">
+The film also stars Emma Myers ("Wednesday"), Oscar nominee Danielle Brooks ("The Color Purple"), Sebastian Eugene Hansen ("Just Mercy", "Lisey's Story"), with Jennifer Coolidge.
+</div>
+<br>
+<div id="paragraph3">
+Welcome to the world of Minecraft, where creativity doesn't just help you craft, it's essential to one's survival! Four misfits—Garrett "The Garbage Man" Garrison (Momoa), Henry (Hansen), Natalie (Myers) and Dawn (Brooks)—find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world (and protect it from evil things like Piglins and Zombies, too) while embarking on a magical quest with an unexpected, expert crafter, Steve (Black). Together, their adventure will challenge all five to be bold and to reconnect with the qualities that make each of them uniquely creative… the very skills they need to thrive back in the real world.
+</div>
+<br>
+<a href="q2outputs.html" target="_self" style="display:block; text-align:center; font-family:Comic Sans MS; font-size:30px;">back to outputs</a>
+</body>
+</html>

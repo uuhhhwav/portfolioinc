@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>4-5</title>
+<link rel="icon" href="q2portfolioinclogo.PNG">
+<style type="text/css">
+div#information{
+background-color: #023020;
+color: white;
+margin: 40px;
+font-family: Helvetica;
+text-align: center;
+line-height: 25px;
+}
+span{
+color: rgb(159, 201, 9);
+font-size: 2em;
+}
+a:link{color: blue;}
+a:visited{color: red}
+a:hover{background-color: yellow;}
+a:active{color: orange;}
+</style>
+</head>
+<body bgcolor="#228B22">
+        
+<div id="information">
+The <span class="title" style="font-family: Verdana;">2024 FIM MotoGP World Championship</span> was the premier class of the 76th Fédération Internationale de Motocyclisme (FIM) Road Racing World Championship season, the highest level of competition in motorcycle road racing. <br><br>
+Spanish rider Jorge Martín with Prima Pramac Racing was crowned Riders' World Champion, the first independent team rider to do so in the MotoGP era and first since Valentino Rossi with Nastro Azzuro Honda in 2001. With 17 sprint and 19 Grand Prix victories from 20 racing weekends, Ducati dominated the season to take their sixth Constructors' World Championship, with the factory team taking the Teams' World Championship. This season also saw Japanese manufacturers struggling for the entire season as they failed to score a single race win since 1970. <br><br>
+<a href="https://en.wikipedia.org/wiki/2024_MotoGP_World_Championship" target="_blank" style="font-size:30px;">Source: Wikipedia</a>
+</div>
+
+<a href="q2outputs.html" target="_self" style="display:block; text-align:center; font-family:Comic Sans MS; font-size:30px;">back to outputs</a>
+
+</body>
+</html>

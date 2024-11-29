@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>6-7</title>
+<link rel="icon" href="q2portfolioinclogo.PNG">
+<style type="text/css">
+body{
+background-image: url(circuit.jpg);
+background-repeat: no-repeat;
+background-size: 100% 900px;
+}
+div.info{
+font-family: Arial;
+background-color: #F28C28;
+height: 400px;
+}
+#repsol{float: left;}
+ul{list-style-type:square;}
+li{list-style-position: inside;}
+</style>
+</head>
+<body>
+
+<div class="info">
+<img id="repsol" src="marquez.jpg" alt="Marquez in the Repsol Honda Team, 2021" width="400px" height="400px">
+<span style="font-variant:small-caps; font-size:50px; text-decoration:underline;">Marc Marquez</span> <br>
+<span style="font-style:italic; text-transform:capitalize;">(born 17 February 1993)</span> <br><br>
+Marc Marquez is a Spanish Grand Prix motorcycle road racer. Born in Cervera, Catalonia, Spain, he is nicknamed the 'Ant of Cervera' worldwide (due to his height of 5' 7" (1.68m)), and 'el tro de Cervera' in his hometown, meaning the 'Thunder of Cervera'. He is one of the most successful motorcycle racers of all time, with eight Grand Prix World Championships to his name, six of which are in the premier class. He is the most successful Spanish rider in MotoGP to date with 62 wins, most recently the 2024 Australian Grand Prix. From his debut season in the premier class in 2013 up until 2023, Marquez raced for the Repsol Honda Team. In 2024, he raced for Gresini Racing, serving as teammates with his younger brother, Alex Marquez. In 2025, he will race alongside Francesco Bagnaia for the Ducati Lenovo Team. <br><br>
+MotoGP Premier Class Statistics:
+<ul>
+    <li>2013, 2014 World Champion (Repsol Honda Team)</li>
+    <li>2015 Third Place (Repsol Honda Team)</li>
+    <li>2016, 2017, 2018, 2019 World Champion (Repsol Honda Team)</li>
+    <li>2021 7th Place (Repsol Honda Team)</li>
+    <li>2022 13th Place (Repsol Honda Team)</li>
+    <li>2023 14th Place (Repsol Honda Team)</li>
+    <li>2024 Third Place (Gresini Racing)</li>
+    <li>2025... (Ducati Lenovo Team)</li>
+</ul>
+</div>
+<br>
+<a href="q2outputs.html" target="_self" style="display:block; text-align:center; font-family:Comic Sans MS; font-size:30px;">back to outputs</a>
+</body>
+</html>
